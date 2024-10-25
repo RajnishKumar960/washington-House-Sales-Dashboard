@@ -1,4 +1,4 @@
-Washington House Sales Dashboard
+![Screenshot 2024-10-25 153005](https://github.com/user-attachments/assets/52073da2-ba5c-466d-b3dc-8d0dcbc7a7d5)Washington House Sales Dashboard
 A Tableau dashboard visualizing house sales data in Washington, including filters, geographical mapping, and distribution charts.
 
 Features
